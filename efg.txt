@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adfqedf
+=======
+dfqdfa
+>>>>>>> new22
